@@ -1,4 +1,8 @@
-# Plantilla para proyectos de react
+# Proyecto API Final 
+
+## Author
+- @martinizin
+
 
 Landing Page
 ------
